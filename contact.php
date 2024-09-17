@@ -11,6 +11,8 @@
         ...
 
     </form>
+
+    <a href="mailto:taldaitz@dawan.fr">Nous contacter</a>
     
 </body>
 </html>
